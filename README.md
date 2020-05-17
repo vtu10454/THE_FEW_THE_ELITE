@@ -3,13 +3,11 @@ The healthcare industry is evolving rapidly with large volumes of data and incre
 
 
 
-#REFERENCES
+#REFERENCE VERY IMPORTANT PLEASE LOOK ONCE.
 
-*COVID-19 CHART ALL OVER THE WORLD.
+*COVID-19 CASES CHART ALL OVER THE WORLD.
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-*10 CONSIDERATION BEFORE YOU CREATE ANOTHER CHART ABOUT COVID-19
-https://www.tableau.com/about/blog/2020/3/ten-considerations-you-create-another-chart-about-covid-19
 
 
                                                      STAY HOME.SAVE LIVES:-   
