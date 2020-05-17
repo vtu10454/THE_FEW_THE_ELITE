@@ -19,7 +19,5 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
                                                             4 cover your cough
                                                             5 sick? Call the helpline.
                                                             
-                                                            
-**shivamsrivastava947@gmail.com
- As a collaborator in your github repository.**
+                                               
 
